@@ -16,7 +16,7 @@ https://github.com/amarmaruf6800-collab/algshop-frontend
 
 ### Live Demo
 
-https://algshop-frontend.vercel.app
+https://algshop.vercel.app
 
 > The current demo uses simulated payment processing for development and demonstration purposes.
 
